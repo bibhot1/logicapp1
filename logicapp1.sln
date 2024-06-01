@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logicapp1", "logicapp1\logicapp1.csproj", "{75DABEB9-A6A4-40B4-ADE8-0210422F4DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75DABEB9-A6A4-40B4-ADE8-0210422F4DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DABEB9-A6A4-40B4-ADE8-0210422F4DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DABEB9-A6A4-40B4-ADE8-0210422F4DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DABEB9-A6A4-40B4-ADE8-0210422F4DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE0A08B-90DE-40A2-BDB8-F54C62E9DFEB}
+	EndGlobalSection
+EndGlobal
